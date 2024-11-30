@@ -1,0 +1,14 @@
+ol, h1, h3 {
+    color: yellowgreen;
+    text-align: center;
+    font-size: 5vw;
+}
+
+#hi {
+    color: blueviolet;
+    font-size: 3vw;
+}
+
+p {
+    color: brown;
+}
